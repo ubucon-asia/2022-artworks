@@ -1,6 +1,8 @@
 # UbuCon Asia 2022 Logo and other artworks
 UbuCon Asia 2022 logo was designed with inspiration from [Cheongsachorong](https://en.wikipedia.org/wiki/Cheongsachorong), which is a traditional Korean lantern.
 
+See [LICENSE.md](LICENSE.md) for copyrights before using artworks on your own works.
+
 ## Logo
 
 ### SVG 640px * 640px
