@@ -18,7 +18,7 @@ See [LICENSE.md](LICENSE.md) for copyrights before using artworks on your own wo
 ## Logo with padding and background
 
 ### SVG 640px * 640px
-| Orange | White |
+| Orange with white background | White with orange background |
 |---|---|
 |![](./uca22logo_orange_padding_white_background.svg)|![](./uca22logo_white_padding_orange_background.svg)|
 
