@@ -1,6 +1,8 @@
-MIT License
+Copyright (c) 2022-Present Youngbin Han, UbuCon Asia team and other contributors
 
-Copyright (c) 2022 Youngbin Han
+SVG files(`*.svg`) are available under MIT license. See below for license text
+```
+MIT License
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
@@ -19,3 +21,5 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
+```
+Other image files such as PNG(`*.png`) files are available under CC BY 4.0 with same copyright
